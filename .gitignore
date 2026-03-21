@@ -1,0 +1,11 @@
+# Datathon datasets
+sc_alz_train_set.csv
+sc_alz_test_set.csv
+sc_alz_train_set_sample.xlsx
+sc_alz_test_set_sample.xlsx
+
+# All data files regardless of name
+*.csv
+*.xlsx
+
+
